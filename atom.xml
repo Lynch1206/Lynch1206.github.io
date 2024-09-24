@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-09-18T15:52:12.081Z</updated>
+  <updated>2024-09-24T13:51:04.899Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,44 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>first article</title>
-    <link href="http://example.com/2024/09/18/first-article/"/>
-    <id>http://example.com/2024/09/18/first-article/</id>
-    <published>2024-09-18T15:51:42.000Z</published>
-    <updated>2024-09-18T15:52:12.081Z</updated>
+    <title>Airplane Delayed for 2 days</title>
+    <link href="http://example.com/2024/09/19/Airplane-Delayed-for-2-days/"/>
+    <id>http://example.com/2024/09/19/Airplane-Delayed-for-2-days/</id>
+    <published>2024-09-18T16:00:00.000Z</published>
+    <updated>2024-09-24T13:51:04.899Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;myfirst-article&quot;&gt;&lt;a href=&quot;#myfirst-article&quot; class=&quot;headerlink&quot; title=&quot;myfirst article&quot;&gt;&lt;/a&gt;myfirst</summary>
+    <summary type="html">&lt;h1 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h1&gt;&lt;p&gt;我遇到了人生第一次的飛機&lt;strong&gt;no</summary>
         
       
     
     
     
+    <category term="Life" scheme="http://example.com/categories/Life/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2024/09/18/hello-world/"/>
-    <id>http://example.com/2024/09/18/hello-world/</id>
-    <published>2024-09-18T15:28:05.521Z</published>
-    <updated>2024-09-18T15:28:05.521Z</updated>
+    <category term="Travel" scheme="http://example.com/categories/Life/Travel/"/>
     
+    <category term="International" scheme="http://example.com/categories/International/"/>
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
+    <category term="Legal" scheme="http://example.com/categories/Legal/"/>
+    
+    <category term="Rights" scheme="http://example.com/categories/Legal/Rights/"/>
     
     
+    <category term="International Airplane" scheme="http://example.com/tags/International-Airplane/"/>
     
+    <category term="Delayed" scheme="http://example.com/tags/Delayed/"/>
+    
+    <category term="Europe" scheme="http://example.com/tags/Europe/"/>
+    
+    <category term="Weather" scheme="http://example.com/tags/Weather/"/>
     
   </entry>
   
