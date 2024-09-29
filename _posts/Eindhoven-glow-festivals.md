@@ -35,7 +35,7 @@ Eindhoven 是荷蘭南部的一個工業城鎮。這個城之所以會發家，P
 例如，２０２４年的展間路線如下：
 
 <!-- ![Glow map](./Eindhoven-glow-festivals/glow_map.png) -->
-<img src="./Eindhoven-glow-festivals/glow_map.png">
+<img src= "images/glow_map.png">
 
 > 我記得有一年的路線延著河道延展到城的東邊。
 
