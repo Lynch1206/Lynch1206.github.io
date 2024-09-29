@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-09-24T13:51:04.899Z</updated>
+  <updated>2024-09-29T04:13:27.675Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Eindhoven glow festivals</title>
+    <link href="http://example.com/2024/09/29/Eindhoven-glow-festivals/"/>
+    <id>http://example.com/2024/09/29/Eindhoven-glow-festivals/</id>
+    <published>2024-09-29T02:42:05.000Z</published>
+    <updated>2024-09-29T04:13:27.675Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Eindhoven&quot;&gt;&lt;a href=&quot;#Eindhoven&quot; class=&quot;headerlink&quot; title=&quot;Eindhoven&quot;&gt;&lt;/a&gt;Eindhoven&lt;/h1&gt;&lt;p&gt;Eindhoven</summary>
+        
+      
+    
+    
+    
+    
+    <category term="TUe" scheme="http://example.com/tags/TUe/"/>
+    
+    <category term="Glow" scheme="http://example.com/tags/Glow/"/>
+    
+    <category term="Festival" scheme="http://example.com/tags/Festival/"/>
+    
+    <category term="Netherlands" scheme="http://example.com/tags/Netherlands/"/>
+    
+    <category term="Eindhoven" scheme="http://example.com/tags/Eindhoven/"/>
+    
+  </entry>
   
   <entry>
     <title>Airplane Delayed for 2 days</title>
