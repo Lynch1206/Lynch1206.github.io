@@ -34,7 +34,7 @@ Eindhoven 是荷蘭南部的一個工業城鎮。這個城之所以會發家，P
 通常，glow 的季節都落在11月，地點則以Eindhoven火車站為中心，展點四落在Eindhoven各個角落。要是一天逛完每個展區也可以，端看當年度的規模。
 例如，２０２４年的展間路線如下：
 
-![Glow map](/images/glow_map.png)
+![Glow map](./Eindhoven-glow-festivals/glow_map.png)
 
 > 我記得有一年的路線延著河道延展到城的東邊。
 
