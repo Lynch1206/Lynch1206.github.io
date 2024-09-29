@@ -8,8 +8,14 @@ tags:
 - Festival
 - Netherlands
 - Eindhoven
+categories:
+- TUe
+- Netherlands
+- Eindhoven
+- Travel
 ---
 # Eindhoven
+
 Eindhoven 是荷蘭南部的一個工業城鎮。這個城之所以會發家，Philips這家公司的貢獻是無可厚非。這棵大樹開枝散葉，讓這個城鎮在其庇蔭下成長茁壯。有很多世界規模的公司在這邊吸取當地的人文與研發養分，展示對技術與科技的熱枕。
 
 > 有名的公司有Signify, NXP, DAF, ASML...等等。<br/>
@@ -27,7 +33,8 @@ Eindhoven 是荷蘭南部的一個工業城鎮。這個城之所以會發家，P
 - 展覽開始時間都會是在晚上，大概18:00開始。（這樣才夠暗）<br/>
 通常，glow 的季節都落在11月，地點則以Eindhoven火車站為中心，展點四落在Eindhoven各個角落。要是一天逛完每個展區也可以，端看當年度的規模。
 例如，２０２４年的展間路線如下：
-![Glow map](./Eindhoven-glow-festivals/glow_map.png)
+
+![Glow map](/source/images/glow_map.png)
 
 > 我記得有一年的路線延著河道延展到城的東邊。
 
