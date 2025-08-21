@@ -1,0 +1,73 @@
+# Site settings
+title: Lynch1206's Blog
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my personal blog where I share thoughts, experiences, and insights
+  on technology, programming, and life.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lynch1206.github.io" # the base hostname & protocol for your site
+twitter_username: lynch1206
+github_username: lynch1206
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# GitHub Pages specific settings
+repository: lynch1206/Lynch1206.github.io
+github: [metadata]
+
+# Content settings
+show_excerpts: true
+excerpt_separator: <!--more-->
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Social links (optional)
+social_links:
+  - https://github.com/lynch1206
+  # - https://twitter.com/lynch1206
+  # - https://linkedin.com/in/your-profile
+
+# Navigation menu
+header_pages:
+  - about.md
+  # - projects.md
+  # - contact.md
+
+# Collections (optional)
+# collections:
+#   projects:
+#     output: true
+#     permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Lynch1206"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
